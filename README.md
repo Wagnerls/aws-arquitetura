@@ -1,8 +1,5 @@
 # AWS-ARQUITETURA
 
-Usando o diagrama feito no drawio, criamos essa arquitetura (onde foi criado um código no Terraform como exemplo).
-
-
 =======
 Usando diagrama feito na drawio criamos essa arquitetura (onde foi criado um codigo no terraform exemplo)
 
